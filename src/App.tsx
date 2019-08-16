@@ -27,7 +27,7 @@ export interface User {
 
 }
 const ID = "Iv1.a1f55f4baa3d29b8"
-const secret = "2f7aa024735b7cd6df04ff21f9da5d9513bf7255"
+const secret = " "
 
 const App: React.SFC = () => {
     const [userName, setUserName] = useState('');
